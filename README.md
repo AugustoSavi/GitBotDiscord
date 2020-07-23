@@ -1,2 +1,3 @@
 # GitBotDiscord
  
+depois altero
