@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "discord.js": "^12.2.0",
-    "knex": "^0.21.2",
+    "knex": "^2.4.0",
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {
